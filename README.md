@@ -1,18 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Senuka Navarathna</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Sri-Lanka with love for coding and gaining experience</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=senuka88&label=Profile%20views&color=0e75b6&style=flat" alt="senuka88" /> </p>
 
-- 🌱 I’m currently learning **the MERN technology stack**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senuka88" alt="senuka88" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Modern Front-End & Back-End Solutions**
+<p align="left"> <a href="https://twitter.com/senukanav22" target="blank"><img src="https://img.shields.io/twitter/follow/senukanav22?logo=twitter&style=for-the-badge" alt="senukanav22" /></a> </p>
 
-- 🤝 I’m looking for help with **API service-handling and .NET applications**
+- 🌱 I’m currently following **the MERN technology stack**
 
-- 📝 I often write short stories on [Horror experiences](Horror experiences)
+- 🔭looking to collaborate on **Modern Front-End & Back-End Solutions**
+
+- 📝 I often write short stories on **Horror stories**
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **senukanavarathna22@gmail.com**
+- 📫 Reach me through : **senukanavarathna22@gmail.com**
 
 - ⚡ Fun fact **I love Gaming**
 
@@ -34,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&locale=en" alt="senuka88" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senuka88&" alt="senuka88" /></p>
-
