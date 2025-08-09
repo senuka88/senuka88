@@ -1,22 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Senuka Navarathna</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Sri-Lanka with love for coding and gaining experience</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senuka88&label=Profile%20views&color=0e75b6&style=flat" alt="senuka88" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=senuka88" alt="senuka88" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/senukanav22" target="blank">
-    <img src="https://img.shields.io/twitter/follow/senukanav22?logo=twitter&style=for-the-badge" alt="senukanav22" />
-  </a>
-</p>
-
 ---
 
 - 🌱 I’m currently following **the MERN technology stack**  
@@ -46,7 +30,7 @@
 <h3 align="left">Technology Stack:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://img.icons8.com/?size=96&id=SDVmtZ6VBGXt&format=png)" alt="express" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
