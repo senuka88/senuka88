@@ -1,16 +1,41 @@
 <h1 align="center">Hi there 👋, I'm Senuka Navarathna</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Sri-Lanka with Love for coding and gaining experience</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
+
+
 
 ---
 
-- 🌱 I’m currently following **the MERN technology stack**  
-- 🔭 Looking to collaborate on **Modern Front-End & Back-End Solutions**  
-- 📝 I often write short stories on **Horror stories**  
-- 💬 Ask me about **Javascript**  
-- 📫 Reach me through: **senukanavarathna22@gmail.com**  
-- ⚡ Fun fact - **I love Gaming**  
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 🧑‍🎓 Undergraduate At ICBT Campus
+  
+- 🌱 I’m currently following the MERN technology stack
+
+- 🔭 Looking to collaborate on Modern Front-End & Back-End Solutions
+
+- 💬 Ask me about JavaScript
+
+- 📫 Reach me through: senukanavarathna22@gmail.com
+  
+- ⚡⚡ Fun fact : I love Gaming
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 ---
 
