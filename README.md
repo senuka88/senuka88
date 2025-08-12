@@ -73,7 +73,7 @@
 
 [![Senuka's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=senuka88&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Senuka's github stats](https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senuka88&theme=tokyonight) |
+| ![Senuka's github stats](https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&theme=tokyonight) | ![Senuka's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senuka88&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senuka88&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
