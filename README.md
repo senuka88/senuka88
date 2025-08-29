@@ -1,11 +1,26 @@
+
 <h1 align="center">Hi there 👋, I'm Senuka Navarathna</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Sri-Lanka with Love for Coding and Gaining experience</h3>
 
 <p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
+  <img src="https://komarev.com/ghpvc/?username=senuka88&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
+
+<p align="center">
+  
+  <img src="https://camo.githubusercontent.com/74dc94b61a9b56d9e8e47b4e82bd30a955ae5e642c87a743d0ae1ae1a5bd3429/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966" alt="Coder GIF" width="500" height="400">
+</p>
+
+---
+
+<h3 align="center">💻 About Me</h3>
+
+<p align="center">
+  🚀 Passionate <b>Full-Stack Developer</b> from Sri Lanka <br>
+  ❤️ Loves <b>Coding</b> & gaining experience <br>
+  🎯 Actively seeking an <b>Internship</b> <br>
+  🌊 Going along with the flow of life
+</p>
+
 
 
 
@@ -41,14 +56,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/senukanav22" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senukanav22" height="30" width="40" />
-</a>
-<a href="https://instagram.com/senuka.aaa" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senuka.aaa" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/senuka navarathna" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="senuka navarathna" height="30" width="40" />
+<a href="https://linkedin.com/in/Senuka Navarathna" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="senuka88" height="50" width="50" /></a>
+<a href="https://fb.com/Senuka Navarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senuka88" height="50" width="50" /></a>
+<a href="https://www.instagram.com/senuka.aaa/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="senuka88" height="50" width="50" /></a>
 </a>
 </p>
 
@@ -58,13 +68,13 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31guce7rnnazf3qujmtaqacv5fpe?si=29cb6cf9c41e4f88)
 
 
 
 ---
 
-<h3 align="left"> Technology Stack:</h3>
+<h3 align="left"> 💻 Technology Stack</h3>
 <p align="left">
 
 
@@ -74,7 +84,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
 </p>
 
 
@@ -94,7 +104,7 @@
 
 | ![Senuka's github stats](https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&theme=tokyonight) | ![Senuka's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senuka88&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senuka88&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senuka88&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <table>
@@ -115,5 +125,12 @@
 </tr>
 </table>
 
-![GitHub Snake](https://github.com/senuka88/senuka88/blob/output/github-contribution-grid-snake.svg)
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
+
+
 
