@@ -104,7 +104,9 @@
 
 | ![Senuka's github stats](https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&theme=tokyonight) | ![Senuka's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senuka88&theme=tokyonight) |
 | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senuka88&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senuka88&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senuka88&layout=compact&theme=radical)
+) |
 
 
 <table>
