@@ -105,6 +105,8 @@
 <div align="center">
 
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&theme=tokyonight" alt="Senuka's GitHub stats"/>
+  <br><br>
+  
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=senuka88&theme=tokyonight" alt="Senuka's GitHub Streak"/>
 
   <br><br>
