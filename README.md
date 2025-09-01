@@ -100,18 +100,23 @@
 ---
 
 ---
-<h3 align="left"> My GitHub Statistics 👇 </h3>
+<h3 align="center"> 📊 My GitHub Statistics 👇 </h3>
 
-| ![Senuka's github stats](https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&theme=tokyonight) | ![Senuka's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senuka88&theme=tokyonight) |
-| --- | --- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senuka88&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senuka88&layout=compact&theme=radical)
-) |
+<div align="center">
 
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=senuka88&show_icons=true&theme=tokyonight" alt="Senuka's GitHub stats"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=senuka88&theme=tokyonight" alt="Senuka's GitHub Streak"/>
 
+  <br><br>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senuka88&layout=compact&theme=radical" alt="Top Languages"/>
+
+</div>
+
+---
 <table>
 <tr>
 <td>
+
 
 ### Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
